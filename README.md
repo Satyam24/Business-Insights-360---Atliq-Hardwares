@@ -3,7 +3,7 @@
 
 Project Overview
 
-AtliQ Hardware is experiencing rapid growth, prompting the implementation of data analytics using Power BI to leverage insights from a dataset exceeding a million records. This initiative aims to extract actionable insights across Finance, Sales, Marketing, Supply Chain, and Executive domains. Live Dashboard: [https://app.powerbi.com/links/o31efDqZBY?ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4&pbi_source=linkShare&bookmarkGuid=50845c26-9c33-4400-95dc-a64ffc995c3a](https://app.powerbi.com/view?r=eyJrIjoiYjVjOTYxY2ItZGMxNy00NGRlLWE4YWUtNDZmYzY4ZGI4MWZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+AtliQ Hardware is experiencing rapid growth, prompting the implementation of data analytics using Power BI to leverage insights from a dataset exceeding a million records. This initiative aims to extract actionable insights across Finance, Sales, Marketing, Supply Chain, and Executive domains. Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYjVjOTYxY2ItZGMxNy00NGRlLWE4YWUtNDZmYzY4ZGI4MWZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
 
 ### Project Goal:
 
@@ -105,8 +105,8 @@ After the Project Kick-off Meetings The data engineering team has delivered the 
 
   
 Data Model
-*Data modeling plays a vital role and is considered as the basement of the report. All the visuals will be built upon the data model.
-*Poor data modeling affects the overall performance of the report.
-*Following Good practices of data modeling is a must. Refer to this page to get to know the good practices of Blog
-*In this project, we have followed the Snowflake data modeling schema.
+* Data modeling plays a vital role and is considered as the basement of the report. All the visuals will be built upon the data model.
+* Poor data modeling affects the overall performance of the report.
+* Following Good practices of data modeling is a must. Refer to this page to get to know the good practices of Blog
+* In this project, we have followed the Snowflake data modeling schema.
 
