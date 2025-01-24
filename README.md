@@ -3,7 +3,7 @@
 
 Project Overview
 
-AtliQ Hardware is experiencing rapid growth, prompting the implementation of data analytics using Power BI to leverage insights from a dataset exceeding a million records. This initiative aims to extract actionable insights across Finance, Sales, Marketing, Supply Chain, and Executive domains. Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiYjVjOTYxY2ItZGMxNy00NGRlLWE4YWUtNDZmYzY4ZGI4MWZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+AtliQ Hardware is experiencing rapid growth, prompting the implementation of data analytics using Power BI to leverage insights from a dataset exceeding a million records. This initiative aims to extract actionable insights across Finance, Sales, Marketing, Supply Chain, and Executive domains. Live Dashboard: 
 
 ### Project Goal:
 
@@ -110,3 +110,4 @@ Data Model
 * Following Good practices of data modeling is a must. Refer to this page to get to know the good practices of Blog
 * In this project, we have followed the Snowflake data modeling schema.
 
+![image alt](https://github.com/Satyam24/Business-Insights-360---Atliq-Hardwares/blob/cb9e789910c346f0eb951bed0589149fb7e59b4c/Data%20Modelling.png)
