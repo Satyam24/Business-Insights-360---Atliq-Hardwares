@@ -137,7 +137,7 @@ In Home view, all the views button will be available. Users will land on a speci
 ### Marekting View
 ![image alt](https://github.com/Satyam24/Business-Insights-360---Atliq-Hardwares/blob/f1e2f3a5c068490141bcbda49d3da4eca862f0c6/Marketing%20View.png)
 ### Supply Chain View
-![image alt](https://github.com/Satyam24/Business-Insights-360---Atliq-Hardwares/blob/f1e2f3a5c068490141bcbda49d3da4eca862f0c6/Supply%20Chain%20View.png)
+![image alt](https://github.com/Satyam24/Business-Insights-360---Atliq-Hardwares/blob/0558a8182441c069f72c523adf526c2db4c4a0db/Supply%20Chain%20View.png)
 ### Executive View
 ![image alt](https://github.com/Satyam24/Business-Insights-360---Atliq-Hardwares/blob/f1e2f3a5c068490141bcbda49d3da4eca862f0c6/Executive%20View.png)
 ### Support View
