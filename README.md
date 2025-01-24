@@ -111,3 +111,34 @@ Data Model
 * In this project, we have followed the Snowflake data modeling schema.
 
 ![image alt](https://github.com/Satyam24/Business-Insights-360---Atliq-Hardwares/blob/cb9e789910c346f0eb951bed0589149fb7e59b4c/Data%20Modelling.png)
+
+
+Dashboard designing Based on the mock-ups received as required, the team will start designing the visuals and create measures as and when required.
+
+In Home view, all the views button will be available. Users will land on a specific view page by clicking the button
+
+* Home Page
+* Info
+* Finance View
+* Sales View
+* Marketing View
+* Supply chain View
+* Executive View
+* Support
+
+### Home Page
+![image alt](https://github.com/Satyam24/Business-Insights-360---Atliq-Hardwares/blob/f1e2f3a5c068490141bcbda49d3da4eca862f0c6/Home%20Page.png)
+### Info Page
+![image alt](https://github.com/Satyam24/Business-Insights-360---Atliq-Hardwares/blob/f1e2f3a5c068490141bcbda49d3da4eca862f0c6/Info.png)
+### Finance View
+![image alt](https://github.com/Satyam24/Business-Insights-360---Atliq-Hardwares/blob/f1e2f3a5c068490141bcbda49d3da4eca862f0c6/Finance%20View.png)
+### Sales View
+![image alt](https://github.com/Satyam24/Business-Insights-360---Atliq-Hardwares/blob/f1e2f3a5c068490141bcbda49d3da4eca862f0c6/Sales%20View.png)
+### Marekting View
+![image alt](https://github.com/Satyam24/Business-Insights-360---Atliq-Hardwares/blob/f1e2f3a5c068490141bcbda49d3da4eca862f0c6/Marketing%20View.png)
+### Supply Chain View
+![image alt](https://github.com/Satyam24/Business-Insights-360---Atliq-Hardwares/blob/f1e2f3a5c068490141bcbda49d3da4eca862f0c6/Supply%20Chain%20View.png)
+### Executive View
+![image alt](https://github.com/Satyam24/Business-Insights-360---Atliq-Hardwares/blob/f1e2f3a5c068490141bcbda49d3da4eca862f0c6/Executive%20View.png)
+### Support View
+![image alt](https://github.com/Satyam24/Business-Insights-360---Atliq-Hardwares/blob/f1e2f3a5c068490141bcbda49d3da4eca862f0c6/Support.png)
