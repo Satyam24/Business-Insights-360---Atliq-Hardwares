@@ -3,7 +3,7 @@
 
 Project Overview
 
-AtliQ Hardware is experiencing rapid growth, prompting the implementation of data analytics using Power BI to leverage insights from a dataset exceeding a million records. This initiative aims to extract actionable insights across Finance, Sales, Marketing, Supply Chain, and Executive domains. Live Dashboard: 
+AtliQ Hardware is experiencing rapid growth, prompting the implementation of data analytics using Power BI to leverage insights from a dataset exceeding a million records. This initiative aims to extract actionable insights across Finance, Sales, Marketing, Supply Chain, and Executive domains. Live Dashboard: [LINK](https://app.powerbi.com/view?r=eyJrIjoiYjVjOTYxY2ItZGMxNy00NGRlLWE4YWUtNDZmYzY4ZGI4MWZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9).
 
 ### Project Goal:
 
